@@ -131,8 +131,5 @@ public class ContaBanco {
 		System.out.println("Saldo: R$" + this.getSaldo());
 		System.out.println("Status: " + this.getStatus());
 	}
- 
-
-	
 	
 }
